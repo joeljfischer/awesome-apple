@@ -60,7 +60,7 @@ A list of awesome 3rd party libraries and tools for Apple platform development, 
 * [Sparkle](https://github.com/sparkle-project/Sparkle) An updating framework for Mac
 
 ####Xcode Plugins
-All plugins should be installed with [Alcatraz](https://github.com/supermarin/Alcatraz), the package manager for Xcode
+All plugins should be installed with [Alcatraz](https://github.com/supermarin/Alcatraz), the package manager for Xcode.
 
 * [FuzzyAutocomplete](https://github.com/FuzzyAutocomplete/FuzzyAutocompletePlugin) Fuzzy pattern matching for Xcode's autocomplete
 * [Lin-Xcode5](https://github.com/questbeat/Lin-Xcode5) Localization Manager for Xcode
