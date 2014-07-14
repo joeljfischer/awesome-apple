@@ -1,9 +1,7 @@
 Awesome-Objc-Swift
 ==================
 
-A list of awesome 3rd party libraries and tools for Apple platform development, iOS and Mac.
-
-##Table of Contents:
+A list of awesome 3rd party libraries and tools for Apple platform development, iOS and Mac. This is not an exhaustive list, just an opinionated set of libraries. I highly recommend you check [Github's Objective C Trending Page] (https://github.com/trending?l=objective-c) often.
 
 ####Libraries & Frameworks
 
