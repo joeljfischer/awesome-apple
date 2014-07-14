@@ -79,4 +79,5 @@ All plugins should be installed with [Alcatraz](https://github.com/supermarin/Al
 * [Synx](https://github.com/venmo/synx) Sync project folders to Xcode groups
 * [Dash](https://itunes.apple.com/us/app/dash-docs-snippets/id458034879?mt=12) A wonderful documentation app for the Mac with integration everywhere
 * [CoocaPods](http://cocoapods.org/) A fantastic dependancy management system for iOS and Mac
+* [Crashlytics](https://www.crashlytics.com) Crash reporting and beta testing for iOS and Mac (and others)
 
