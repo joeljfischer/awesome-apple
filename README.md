@@ -10,15 +10,13 @@ A list of awesome 3rd party libraries and tools for Apple platform development, 
 #####iOS UI
 * [DZNEmptyDataSet](https://github.com/dzenbot/DZNEmptyDataSet) Show an special image when no data is available
 * [JVFloatLabeledTextField](https://github.com/jverdi/JVFloatLabeledTextField) Give context to iOS users' text fields
-
-#####Mac UI
-* [MASPreferences](https://github.com/shpakovski/MASPreferences) Preferences window for Mac Apps
-
-#####iOS UI
 * [ClusterPrePermissions](https://github.com/clusterinc/ClusterPrePermissions) Ask for iOS permissions twice
 * [Tweaks](https://github.com/facebook/Tweaks) Tweak parameters at runtime in app on iOS
 * [FXForms](https://github.com/nicklockwood/FXForms) Easy forms for iOS
 * [M13ProgressSuite](https://github.com/Marxon13/M13ProgressSuite) A wide range of progress indicators for iOS
+
+#####Mac UI
+* [MASPreferences](https://github.com/shpakovski/MASPreferences) Preferences window for Mac Apps
 
 #####Images
 * [FLAnimatedImage](https://github.com/Flipboard/FLAnimatedImage) Performant GIFs for iOS
