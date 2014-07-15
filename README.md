@@ -83,5 +83,5 @@ All plugins should be installed with [Alcatraz](https://github.com/supermarin/Al
 * [mjtsai](http://mjtsai.com/blog/) Michael Tsai's blog
 * [NSBlog](https://www.mikeash.com/pyblog/) Mike Ash's blog
 
-For more awesome, check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
+For more awesome lists, check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness).
 
