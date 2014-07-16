@@ -85,3 +85,4 @@ All plugins should be installed with [Alcatraz](https://github.com/supermarin/Al
 
 For more awesome lists, check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness).
 
+If you think anything essential is missing (should be relevant for most or all Apple platform developers) leave me an issue, and I'll take a look.
