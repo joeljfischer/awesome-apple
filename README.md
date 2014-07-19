@@ -21,6 +21,7 @@ A list of awesome 3rd party libraries and tools for Apple platform development, 
 * [GPUImage](https://github.com/BradLarson/GPUImage) GPU based image and video processing for iOS
 * [FastImageCache](https://github.com/path/FastImageCache) iOS library for quickly displaying images while scrolling
 * [SDWebImage](https://github.com/rs/SDWebImage) Asynchronous image downloader with cache support for iOS 
+* [VMMagnifyComparer](https://github.com/void-main/VMMagnifyComparer) Compare image details with a magnifier for Mac
 
 #####Animation
 * [Pop](https://github.com/facebook/pop) Extensible animation library for iOS and Mac
