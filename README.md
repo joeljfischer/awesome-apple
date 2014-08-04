@@ -38,6 +38,7 @@ A list of awesome 3rd party libraries and tools for Apple platform development, 
 * [CocoaAsyncSocket](https://github.com/robbiehanson/CocoaAsyncSocket) TCP/IP socket server and consumer for iOS and Mac
 * [Restkit](https://github.com/RestKit/RestKit) Transform REST API calls into models (including Core Data) for iOS and OSX
 * [AFNetworking](https://github.com/AFNetworking/AFNetworking) A networking framework for iOS and OSX
+* [AlamoFire](https://github.com/Alamofire/Alamofire) A networking framework for Swift, written by the creator of AFNetworking
 * [Reachability](https://github.com/tonymillion/Reachability) Reachability class for iOS and OSX
 
 #####Audio
