@@ -56,6 +56,7 @@ A list of awesome 3rd party libraries and tools for Apple platform development, 
 
 #####Testing
 * [Quick](https://github.com/Quick/Quick) Behavior-Driven Development testing framework for Obj-C and Swift
+* [OHHTTPStubs](https://github.com/AliSoftware/OHHTTPStubs) Stubs for web request unit testing
 * [OCMock](https://github.com/erikdoe/ocmock) Mock objects for Objective-C unit testing
 
 #####Misc
