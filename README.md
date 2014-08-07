@@ -12,6 +12,10 @@ A list of awesome 3rd party libraries and tools for Apple platform development, 
 * [Tweaks](https://github.com/facebook/Tweaks) Tweak parameters at runtime in app on iOS
 * [FXForms](https://github.com/nicklockwood/FXForms) Easy forms for iOS
 * [M13ProgressSuite](https://github.com/Marxon13/M13ProgressSuite) A wide range of progress indicators for iOS
+* [CHTCollectionViewWaterfallLayout](https://github.com/chiahsien/CHTCollectionViewWaterfallLayout) The waterfall layout for UICollectionView
+* [RESideMenu](https://github.com/romaonthego/RESideMenu) iOS 7 style side menu with parallax effect
+* [REMenu](https://github.com/romaonthego/REMenu) Dropdown menu inspired by Vine
+* [REFrostedViewController](https://github.com/romaonthego/REFrostedViewController) iOS 7 style blurred view controller that appears on top of your view controller
 
 #####Mac UI
 * [MASPreferences](https://github.com/shpakovski/MASPreferences) Preferences window for Mac Apps
@@ -77,6 +81,7 @@ All plugins should be installed with [Alcatraz](https://github.com/supermarin/Al
 * [Dash](https://itunes.apple.com/us/app/dash-docs-snippets/id458034879?mt=12) A wonderful documentation app for the Mac with integration everywhere
 * [CoocaPods](http://cocoapods.org/) A fantastic dependancy management system for iOS and Mac
 * [Crashlytics](https://www.crashlytics.com) Crash reporting and beta testing for iOS and Mac (and others)
+* [FLEX](https://github.com/Flipboard/FLEX) An in-app debugging and exploration tool for iOS
 
 ####Websites and Resources
 * [NSHipster](http://nshipster.com/) NSHipster is a journal of the overlooked bits in Objective-C, Swift, and Cocoa Updated weekly.
