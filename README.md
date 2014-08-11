@@ -86,6 +86,8 @@ All plugins should be installed with [Alcatraz](https://github.com/supermarin/Al
 * [mjtsai](http://mjtsai.com/blog/) Michael Tsai's blog
 * [NSBlog](https://www.mikeash.com/pyblog/) Mike Ash's blog
 * [Cocoa](http://cocoa.tumblr.com/) Blog brought to you by the iOS developers at Tumblr
+* [Cocoa Controls](https://www.cocoacontrols.com/) iOS UI controls
+* [Pttrns](http://www.pttrns.com/) iOS design inspiration
 
 For more awesome lists, check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness).
 
