@@ -10,8 +10,10 @@ A list of awesome 3rd party libraries and tools for Apple platform development, 
 * [JVFloatLabeledTextField](https://github.com/jverdi/JVFloatLabeledTextField) Give context to iOS users' text fields
 * [ClusterPrePermissions](https://github.com/clusterinc/ClusterPrePermissions) Ask for iOS permissions twice
 * [Tweaks](https://github.com/facebook/Tweaks) Tweak parameters at runtime in app on iOS
-* [FXForms](https://github.com/nicklockwood/FXForms) Easy forms for iOS
 * [M13ProgressSuite](https://github.com/Marxon13/M13ProgressSuite) A wide range of progress indicators for iOS
+* [SpinKit](https://github.com/raymondjavaxx/SpinKit-ObjC) Several indeterminate loading spinners
+* [MBProgressHUD](https://github.com/jdg/MBProgressHUD) For overlaying progress on top of a view controller
+* [TTTAttributedLabel](https://github.com/TTTAttributedLabel/TTTAttributedLabel) Better attributed strings in UILabels
 
 #####Mac UI
 * [MASPreferences](https://github.com/shpakovski/MASPreferences) Preferences window for Mac Apps
@@ -31,25 +33,30 @@ A list of awesome 3rd party libraries and tools for Apple platform development, 
 
 #####Model Programming
 * [Mantle](https://github.com/Mantle/Mantle) Simple model layer library for Mac and iOS
-* [Magical Record](https://github.com/magicalpanda/MagicalRecord) Easy fetching for Core Data
+* [Realm](https://github.com/realm/realm-cocoa) A new mobile-first database
 
 #####Network Programming
 * [GCDWebServer](https://github.com/swisspol/GCDWebServer) HTTP server for iOS and Mac
 * [CocoaAsyncSocket](https://github.com/robbiehanson/CocoaAsyncSocket) TCP/IP socket server and consumer for iOS and Mac
 * [Restkit](https://github.com/RestKit/RestKit) Transform REST API calls into models (including Core Data) for iOS and OSX
-* [AFNetworking](https://github.com/AFNetworking/AFNetworking) A networking framework for iOS and OSX
+* [AFNetworking](https://github.com/AFNetworking/AFNetworking) "The" networking framework for iOS and OSX
 * [AlamoFire](https://github.com/Alamofire/Alamofire) A networking framework for Swift, written by the creator of AFNetworking
 * [Reachability](https://github.com/tonymillion/Reachability) Reachability class for iOS and OSX
 
 #####Audio
 * [AFSoundManager](https://github.com/AlvaroFranco/AFSoundManager) Easier local and streaming audio playback for iOS
 
+#####Localization
+* [TTTLocalizedPluralString](https://github.com/mattt/TTTLocalizedPluralString) Much easier pluralization for NSLocalizedString
+* [InflectorKit](https://github.com/mattt/InflectorKit) Built in pluralization rules for a bunch of languages
+* [FormatterKit](https://github.com/mattt/FormatterKit) stringWithFormat that localizes different types of data
+
 #####Programming Helpers
 * [Dollar.Swift](https://github.com/ankurp/Dollar.swift) Functional programming helpers for Swift
 * [ObjectiveSugar](https://github.com/supermarin/ObjectiveSugar) Functional programming helpers for iOS
 * [Reactive Cocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) Functional Reactive Programming for iOS and Mac
 * [libextobjc](https://github.com/jspahrsummers/libextobjc) Cocoa library to extend Objective-C
-* [PromiseKit](https://github.com/mxcl/PromiseKit) Better asynchronous programming with Promises for iOS (Obj-C and Swift)
+* [PromiseKit](https://github.com/mxcl/PromiseKit) Better asynchronousa programming with Promises for iOS (Obj-C and Swift)
 * [DateTools](https://github.com/MatthewYork/DateTools) Helping out with date and times
 * [KVOController](https://github.com/facebook/KVOController) Block based, easier, safer, KVO
 * [PureLayout](https://github.com/smileyborg/PureLayout) Better programmatic Auto-Layout for iOS and Mac
