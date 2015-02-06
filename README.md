@@ -3,9 +3,9 @@ Awesome-Apple
 
 A list of awesome 3rd party libraries and tools for Apple platform development, iOS and Mac. This is not an exhaustive list, just an opinionated set of resources. I highly recommend you check Github's [Objective-C](https://github.com/trending?l=objective-c) and [Swift](https://github.com/trending?l=swift) Trending Page often.
 
-####Libraries & Frameworks
+#### Libraries & Frameworks
 
-#####iOS UI
+##### iOS UI
 * [DZNEmptyDataSet](https://github.com/dzenbot/DZNEmptyDataSet) Show an special image when no data is available
 * [JVFloatLabeledTextField](https://github.com/jverdi/JVFloatLabeledTextField) Give context to iOS users' text fields
 * [ClusterPrePermissions](https://github.com/clusterinc/ClusterPrePermissions) Ask for iOS permissions twice
@@ -15,27 +15,27 @@ A list of awesome 3rd party libraries and tools for Apple platform development, 
 * [MBProgressHUD](https://github.com/jdg/MBProgressHUD) For overlaying progress on top of a view controller
 * [TTTAttributedLabel](https://github.com/TTTAttributedLabel/TTTAttributedLabel) Better attributed strings in UILabels
 
-#####Mac UI
+##### Mac UI
 * [MASPreferences](https://github.com/shpakovski/MASPreferences) Preferences window for Mac Apps
 
-#####Images
+##### Images
 * [FLAnimatedImage](https://github.com/Flipboard/FLAnimatedImage) Performant GIFs for iOS
 * [GPUImage](https://github.com/BradLarson/GPUImage) GPU based image and video processing for iOS
 * [FastImageCache](https://github.com/path/FastImageCache) iOS library for quickly displaying images while scrolling
 * [SDWebImage](https://github.com/rs/SDWebImage) Asynchronous image downloader with cache support for iOS 
 
-#####Animation
+##### Animation
 * [Pop](https://github.com/facebook/pop) Extensible animation library for iOS and Mac
 * [JazzHands](https://github.com/IFTTT/JazzHands) Key-frame based animation for iOS
 
-#####Logging
+##### Logging
 * [CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack) Better logging for iOS and Mac
 
-#####Model Programming
+##### Model Programming
 * [Mantle](https://github.com/Mantle/Mantle) Simple model layer library for Mac and iOS
 * [Realm](https://github.com/realm/realm-cocoa) A new mobile-first database
 
-#####Network Programming
+##### Network Programming
 * [GCDWebServer](https://github.com/swisspol/GCDWebServer) HTTP server for iOS and Mac
 * [CocoaAsyncSocket](https://github.com/robbiehanson/CocoaAsyncSocket) TCP/IP socket server and consumer for iOS and Mac
 * [Restkit](https://github.com/RestKit/RestKit) Transform REST API calls into models (including Core Data) for iOS and OSX
@@ -43,15 +43,15 @@ A list of awesome 3rd party libraries and tools for Apple platform development, 
 * [AlamoFire](https://github.com/Alamofire/Alamofire) A networking framework for Swift, written by the creator of AFNetworking
 * [Reachability](https://github.com/tonymillion/Reachability) Reachability class for iOS and OSX
 
-#####Audio
+##### Audio
 * [AFSoundManager](https://github.com/AlvaroFranco/AFSoundManager) Easier local and streaming audio playback for iOS
 
-#####Localization
+##### Localization
 * [TTTLocalizedPluralString](https://github.com/mattt/TTTLocalizedPluralString) Much easier pluralization for NSLocalizedString
 * [InflectorKit](https://github.com/mattt/InflectorKit) Built in pluralization rules for a bunch of languages
 * [FormatterKit](https://github.com/mattt/FormatterKit) stringWithFormat that localizes different types of data
 
-#####Programming Helpers
+##### Programming Helpers
 * [Dollar.Swift](https://github.com/ankurp/Dollar.swift) Functional programming helpers for Swift
 * [ObjectiveSugar](https://github.com/supermarin/ObjectiveSugar) Functional programming helpers for iOS
 * [Reactive Cocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) Functional Reactive Programming for iOS and Mac
@@ -61,15 +61,17 @@ A list of awesome 3rd party libraries and tools for Apple platform development, 
 * [KVOController](https://github.com/facebook/KVOController) Block based, easier, safer, KVO
 * [PureLayout](https://github.com/smileyborg/PureLayout) Better programmatic Auto-Layout for iOS and Mac
 
-#####Testing
+##### Testing
 * [Quick](https://github.com/Quick/Quick) Behavior-Driven Development testing framework for Obj-C and Swift
+* [Specta](https://github.com/specta/specta) Light weight TDD/BDD framework for Obj-C, built on top of XCTest
+* [Expecta](https://github.com/specta/expecta/) A nice matching framework to make your tests more readable
 * [OHHTTPStubs](https://github.com/AliSoftware/OHHTTPStubs) Stubs for web request unit testing
 * [OCMock](https://github.com/erikdoe/ocmock) Mock objects for Objective-C unit testing
 
-#####Misc
+##### Misc
 * [Sparkle](https://github.com/sparkle-project/Sparkle) An updating framework for Mac
 
-####Xcode Plugins
+#### Xcode Plugins
 All plugins should be installed with [Alcatraz](https://github.com/supermarin/Alcatraz), the package manager for Xcode.
 
 * [FuzzyAutocomplete](https://github.com/FuzzyAutocomplete/FuzzyAutocompletePlugin) Fuzzy pattern matching for Xcode's autocomplete
@@ -79,13 +81,13 @@ All plugins should be installed with [Alcatraz](https://github.com/supermarin/Al
 * [KSImageNamed](https://github.com/ksuther/KSImageNamed-Xcode) Xcode Plugin to autocomplete `imageNamed:` method calls
 * [VVDocumentor](https://github.com/onevcat/VVDocumenter-Xcode) Get help writing documentation in Xcode
 
-####Tools & Developer Apps
+#### Tools & Developer Apps
 * [Synx](https://github.com/venmo/synx) Sync project folders to Xcode groups
 * [Dash](https://itunes.apple.com/us/app/dash-docs-snippets/id458034879?mt=12) A wonderful documentation app for the Mac with integration everywhere
 * [CoocaPods](http://cocoapods.org/) A fantastic dependancy management system for iOS and Mac
 * [Crashlytics](https://www.crashlytics.com) Crash reporting and beta testing for iOS and Mac (and others)
 
-####Websites and Resources
+#### Websites and Resources
 * [NSHipster](http://nshipster.com/) NSHipster is a journal of the overlooked bits in Objective-C, Swift, and Cocoa Updated weekly.
 * [ObjC.io](http://www.objc.io/) A periodical about best practices and advanced techniques in Objective-C
 * [Ray Wenderlich](http://www.raywenderlich.com/) Programming Tutorials focused on iOS
