@@ -60,6 +60,7 @@ A list of awesome 3rd party libraries and tools for Apple platform development, 
 * [DateTools](https://github.com/MatthewYork/DateTools) Helping out with date and times
 * [KVOController](https://github.com/facebook/KVOController) Block based, easier, safer, KVO
 * [PureLayout](https://github.com/smileyborg/PureLayout) Better programmatic Auto-Layout for iOS and Mac
+* [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) Handle JSON in Swift with ease
 
 ##### Testing
 * [Quick](https://github.com/Quick/Quick) Behavior-Driven Development testing framework for Obj-C and Swift
