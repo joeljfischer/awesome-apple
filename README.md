@@ -87,7 +87,8 @@ All plugins should be installed with [Alcatraz](https://github.com/supermarin/Al
 * [Synx](https://github.com/venmo/synx) Sync project folders to Xcode groups
 * [Dash](https://itunes.apple.com/us/app/dash-docs-snippets/id458034879?mt=12) A wonderful documentation app for the Mac with integration everywhere
 * [CoocaPods](http://cocoapods.org/) A fantastic dependancy management system for iOS and Mac
-* [Crashlytics](https://www.crashlytics.com) Crash reporting and beta testing for iOS and Mac (and others)
+* [Crashlytics](https://fabric.io/kits/ios/crashlytics) Crash reporting for iOS and Mac (and others)
+* [Answers](https://answers.io/) Analytics for iOS (and others)
 
 #### Websites and Resources
 * [NSHipster](http://nshipster.com/) NSHipster is a journal of the overlooked bits in Objective-C, Swift, and Cocoa Updated weekly.
@@ -96,7 +97,7 @@ All plugins should be installed with [Alcatraz](https://github.com/supermarin/Al
 * [inessential](http://inessential.com/) Brent Simmons' blog (Programmer for [Q Branch](http://vesperapp.co/))
 * [mjtsai](http://mjtsai.com/blog/) Michael Tsai's blog
 * [NSBlog](https://www.mikeash.com/pyblog/) Mike Ash's blog
-* [Cocoa](http://cocoa.tumblr.com/) Blog brought to you by the iOS developers at Tumblr
+* [Tumblr Developer Blog](http://cocoa.tumblr.com/) Blog brought to you by the iOS developers at Tumblr
 * [Cocoa Controls](https://www.cocoacontrols.com/) iOS UI controls
 * [Pttrns](http://www.pttrns.com/) iOS design inspiration
 
