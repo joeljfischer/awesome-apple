@@ -89,6 +89,7 @@ All plugins should be installed with [Alcatraz](https://github.com/supermarin/Al
 * [CoocaPods](http://cocoapods.org/) A fantastic dependancy management system for iOS and Mac
 * [Crashlytics](https://fabric.io/kits/ios/crashlytics) Crash reporting for iOS and Mac (and others)
 * [Answers](https://answers.io/) Analytics for iOS (and others)
+* [County](http://count.ly) Mobile analytics, push notifications and crash reporting platform for iOS (and others)
 
 #### Websites and Resources
 * [NSHipster](http://nshipster.com/) NSHipster is a journal of the overlooked bits in Objective-C, Swift, and Cocoa Updated weekly.
