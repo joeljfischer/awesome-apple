@@ -15,6 +15,7 @@ A list of awesome 3rd party libraries and tools for Apple platform development, 
 * [MBProgressHUD](https://github.com/jdg/MBProgressHUD) For overlaying progress on top of a view controller
 * [TTTAttributedLabel](https://github.com/TTTAttributedLabel/TTTAttributedLabel) Better attributed strings in UILabels
 * [AsyncDisplayKit](https://github.com/facebook/AsyncDisplayKit) Asynchronous user interfaces built over UIKit
+* [Gemini](https://github.com/shoheiyokoyama/Gemini) - Gemini is rich scroll based animation framework for iOS, written in Swift.
 
 ##### Mac UI
 * [MASPreferences](https://github.com/shpakovski/MASPreferences) Preferences window for Mac Apps
