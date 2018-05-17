@@ -26,6 +26,7 @@ A list of awesome 3rd party libraries and tools for Apple platform development, 
 * [SDWebImage](https://github.com/rs/SDWebImage) Asynchronous image downloader with cache support for iOS 
 
 ##### Animation
+* [Poi](https://github.com/HideakiTouhara/Poi) Use card UI like tinder UI
 * [Pop](https://github.com/facebook/pop) Extensible animation library for iOS and Mac
 * [JazzHands](https://github.com/IFTTT/JazzHands) Key-frame based animation for iOS
 
