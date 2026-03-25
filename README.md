@@ -46,6 +46,7 @@ A list of awesome 3rd party libraries and tools for Apple platform development, 
 
 ##### Audio
 * [AFSoundManager](https://github.com/AlvaroFranco/AFSoundManager) Easier local and streaming audio playback for iOS
+- [DailyVox](https://getdailyvox.com) - AI voice diary using NaturalLanguage and Speech frameworks for on-device NLP. ([App Store](https://apps.apple.com/app/id6760454642))
 
 ##### Localization
 * [TTTLocalizedPluralString](https://github.com/mattt/TTTLocalizedPluralString) Much easier pluralization for NSLocalizedString
